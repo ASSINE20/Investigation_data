@@ -5,7 +5,7 @@ Projet d'investigation sur les données noshowappointments-kagglev2-may-2016
 
 # Introduction
 
-    ### Dataset 
+    # Description du dataset 
     
  Ce dataset recueille des informations sur 100.000 enregistrements de rendez-vous médicaux de différents patients au Brésil en 2016. Le but principal est de voir si les patients parviennent à respecter leur planning de rendez-vous ou pas. Le dataset est constitué de 14 variables.
  Dans cette partie introductive nous allons poser des hupothèses que nous essayerons d'apporter des réponses dans la partie de l'exploration des données.
